@@ -1,0 +1,2 @@
+Hello! My name is Rauf.
+This is my Git practice task.
