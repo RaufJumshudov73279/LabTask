@@ -1,0 +1,2 @@
+Hello! I am the second student.
+This is my contribution to the Git practice task.
